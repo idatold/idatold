@@ -11,13 +11,10 @@ When I’m not coding, you can find me sipping coffee or tea ☕, exploring new 
 
 
 
-![botanicalportraitidatold](https://github.com/user-attachments/assets/dcbf1cbd-eccf-4bf5-8610-309613db9cd5)
-
 
 ### You can reach me here: 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Charcoal?style=for-the-badge&logo=link)](https://idatoldportfolio.netlify.app/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Charcoal?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ida-charlotte-loriann-toldn%C3%A6s-920190117/)  
-[![Instagram](https://img.shields.io/badge/Instagram-Charcoal?style=for-the-badge&logo=instagram)](https://www.instagram.com/fjorden.photography)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=link&logoColor=white)](https://idatoldportfolio.netlify.app/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ida-charlotte-loriann-toldn%C3%A6s-920190117/)  
+[![Instagram](https://img.shields.io/badge/Instagram-333333?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fjorden.photography)
 Thanks for stopping by! 💖
 
