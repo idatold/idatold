@@ -40,7 +40,7 @@ I’m looking for junior front-end opportunities where I can keep learning, grow
 Scratching my brain with: Next.js · Animation with Framer Motion · TypeScript
 
 
-Thanks for visiting — and have a lovely day! 💫
+Thanks for visiting, and I hope you have a lovely day! 💫
 
 
 ---
