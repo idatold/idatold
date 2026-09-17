@@ -6,7 +6,7 @@
 I’ve worked at sea and behind the camera as a wedding and portrait photographer — both taught me patience, endurance, and an eye for details.  
 Now I bring that same creativity into front-end development, designing things that feel thoughtful, a little whimsical, and built with care.  
 
-🎓 Soon to graduate from Noroff School of Technology and Digital Media (Front-End Development, 2023–2025).  
+🎓 I graduated from Noroff School of Technology and Digital Media Front-End Development in October 2025.  
 I’m looking for junior front-end opportunities where I can keep learning, grow, and create experiences that make people smile!
 
 ## 🧩 What I’ve Learned So Far (and still learning)
